@@ -5,9 +5,9 @@ import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.Test;
+//import org.openqa.selenium.WebDriver;
+//import org.openqa.selenium.chrome.ChromeDriver;
+//import org.testng.annotations.Test;
 
 public class ReadingNotepadData {
 
@@ -46,6 +46,7 @@ public class ReadingNotepadData {
 			 * Tittle=driver.getTitle(); System.out.println("Tittle of Page is"+ Tittle);
 			 */
 		}
+		BR.close();
 
 	}
 
