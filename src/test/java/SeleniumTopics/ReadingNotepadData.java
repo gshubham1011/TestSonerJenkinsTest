@@ -28,7 +28,7 @@ public class ReadingNotepadData {
 		BW.newLine();
 		BW.write("akjdiashi");
 		BW.close();
-	    System.out.println("Close file");
+	    System.out.println("Close file.");
 		
 		
 		
